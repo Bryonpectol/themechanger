@@ -1,0 +1,365 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+nav {
+  background-color: black;
+  width: 100%;
+  position: fixed;
+  
+}
+
+ul {
+  display: flex;
+  margin-right: 10px;
+  margin-left: 10px;
+  justify-content: center;
+}
+
+li {
+  color: white;
+  padding: 20px;
+  list-style-type: none;
+}
+
+.nava {
+  text-decoration: none;
+}
+
+.firDiv {
+  background-color: grey;
+  width: 20%;
+  height: 300px;
+}
+
+.secDiv {
+  background-color: lightyellow;
+  width: 20%;
+  height: 300px;
+}
+
+.thiDiv {
+  background-color: white;
+  width: 20%;
+  height: 300px;
+}
+
+.fouDiv {
+  background-color: black;
+  width: 20%;
+  height: 300px;
+}
+
+.fivDiv {
+  background-color: salmon;
+  width: 20%;
+  height: 300px;
+}
+
+.maindiv {
+  display: flex;
+  width: 100%;
+}
+
+.button {
+  width: 20%;
+  height: 300px;
+  border-radius: 30px;
+}
+
+.button:active {
+  transition: .3s ease;
+}
+
+.btnDiv {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#firstbtn {
+  background-color: lightyellow;
+}
+
+#secondbtn {
+  background-color: #4DBBE0;
+}
+
+#thirdbtn {
+  background-color: #377880;
+  color: white;
+}
+
+#fourthbtn {
+  background-color: #BF4974;
+}
+
+#fifthbtn {
+  background-color: #F20505;
+}
+
+#sixthbtn {
+  background-color: #04BF8A;
+}
+
+#seventhbtn {
+  background-color: #0A5951;
+  color: white;
+}
+
+#eighthbtn {
+  background-color: #ABD904;
+}
+
+
+
+
+
+
+.firFDiv {
+  background-color: #4DBBE0;
+  width: 20%;
+  height: 300px;
+}
+
+.firSDiv {
+  background-color: #36324B;
+  width: 20%;
+  height: 300px;
+}
+
+.firTDiv {
+  background-color: #F2BA52;
+  width: 20%;
+  height: 300px;
+}
+
+.firFoDiv {
+  background-color: #FFFFFF;
+  width: 20%;
+  height: 300px;
+}
+
+.firFiDiv {
+  background-color: #FF7372;
+  width: 20%;
+  height: 300px;
+}
+
+
+
+
+
+.secFDiv {
+  background-color: #BAF8FF;
+  width: 20%;
+  height: 300px;
+}
+
+.secSDiv {
+  background-color: #377880;
+  width: 20%;
+  height: 300px;
+}
+
+.secTDiv {
+  background-color: #6EF0FF;
+  width: 20%;
+  height: 300px;
+}
+
+.secFoDiv {
+  background-color: #5D7C80;
+  width: 20%;
+  height: 300px;
+}
+
+.secFiDiv {
+  background-color: #0387A8;
+  width: 20%;
+  height: 300px;
+}
+
+
+
+
+
+
+.thiFDiv {
+  background-color: #BF4974;
+  width: 20%;
+  height: 300px;
+}
+
+.thiSDiv {
+  background-color: #734F70;
+  width: 20%;
+  height: 300px;
+}
+
+.thiTDiv {
+  background-color: #5D848C;
+  width: 20%;
+  height: 300px;
+}
+
+.thiFoDiv {
+  background-color: #F2F2F2;
+  width: 20%;
+  height: 300px;
+}
+
+.thiFiDiv {
+  background-color: #F2E2C4;
+  width: 20%;
+  height: 300px;
+}
+
+
+
+
+
+
+.fouFDiv {
+  background-color: #F20505;
+  width: 20%;
+  height: 300px;
+}
+
+.fouSDiv {
+  background-color: #F2ECCE;
+  width: 20%;
+  height: 300px;
+}
+
+.fouTDiv {
+  background-color: #A60303;
+  width: 20%;
+  height: 300px;
+}
+
+.fouFoDiv {
+  background-color: #590202;
+  width: 20%;
+  height: 300px;
+}
+
+.fouFiDiv {
+  background-color: #F20530;
+  width: 20%;
+  height: 300px;
+}
+
+
+
+
+
+
+
+.fifFDiv {
+  background-color: #04BF8A;
+  width: 20%;
+  height: 300px;
+}
+
+.fifSDiv {
+  background-color: #03A678;
+  width: 20%;
+  height: 300px;
+}
+
+.fifTDiv {
+  background-color: #F26A4B;
+  width: 20%;
+  height: 300px;
+}
+
+.fifFoDiv {
+  background-color: #0D0D0D;
+  width: 20%;
+  width: 20%;
+  height: 300px;
+}
+
+.fifFiDiv {
+  background-color: #D9D9D9;
+  width: 20%;
+  width: 20%;
+  height: 300px;
+}
+
+
+
+
+
+
+
+.sixFDiv {
+  background-color: #060B26;
+  width: 20%;
+  height: 300px;
+}
+
+.sixSDiv {
+  background-color: #084040;
+  width: 20%;
+  height: 300px;
+}
+
+.sixTDiv {
+  background-color: #0A5951;
+  width: 20%;
+  height: 300px;
+}
+
+.sixFoDiv {
+  background-color: #0A7360;
+  width: 20%;
+  width: 20%;
+  height: 300px;
+}
+
+.sixFiDiv {
+  background-color: #062A32;
+  width: 20%;
+  width: 20%;
+  height: 300px;
+}
+
+
+
+
+
+
+
+.sevFDiv {
+  background-color: #A60321;
+  width: 20%;
+  height: 300px;
+}
+
+.sevSDiv {
+  background-color: #6E5F45;
+  width: 20%;
+  height: 300px;
+}
+
+.sevTDiv {
+  background-color: #027373;
+  width: 20%;
+  height: 300px;
+}
+
+.sevFoDiv {
+  background-color: #ABD904;
+  width: 20%;
+  width: 20%;
+  height: 300px;
+}
+
+.sevFiDiv {
+  background-color: #83A603;
+  width: 20%;
+  width: 20%;
+  height: 300px;
+}
